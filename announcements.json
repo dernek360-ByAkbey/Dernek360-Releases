@@ -1,13 +1,3 @@
 {
-  "announcements": [
-    {
-      "id": "2026-08-25-1787680321592",
-      "title": "Hoş Geldiniz",
-      "message": "Dernek360 uygulamasına hoşgeldiniz. Lütfen uygulamayı geliştirmek adına eksik gördüğünüz kısımları iletiniz.",
-      "type": "info",
-      "startDate": "2026-08-25",
-      "popup": true,
-      "windowsNotification": true
-    }
-  ]
+  "announcements": []
 }
