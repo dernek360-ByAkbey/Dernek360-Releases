@@ -1,3 +1,14 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "id": "2026-08-29-1788000742748",
+      "title": "DERNEK360'A HOŞGELDİNİZ!",
+      "message": "Dernek360 uygulamasına hoş geldiniz. Uygulama hakkındaki bilgileri kurulum ve kullanım aşamalarını öğrenmek için size iletilen youtube linkinden ilgili videoları izleyebilirsiniz. Uygulamada ara ara güncellemeleri kontrol etmeyi unutmayınız.\nCreated By AKBEY.",
+      "type": "info",
+      "startDate": "2026-08-29",
+      "popup": true,
+      "windowsNotification": true,
+      "link": "https://youtube.com/playlist?list=PLF6lhZOZoGb8&si=WGPk_q20m4vvRc8s"
+    }
+  ]
 }
