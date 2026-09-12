@@ -1,6 +1,16 @@
 {
   "announcements": [
     {
+      "id": "2026-09-12-1789236515374",
+      "title": "Yeni Güncelleme Hazır.",
+      "message": "Sayın Dernek360 Kullanıcısı yeni güncelleme yayınlanmış olup sizlerden gelen bildirimler doğrultusunda yeni özellikler eklenmiş ve sizlerin tespit ettiği bazı hatalar giderilmeye çalışılmıştır. Lütfen sistemi iyileştirmek adına hata gördüğünüzde veya öneriniz olduğunda bizlere geri bildirim alanından bildiriniz.",
+      "type": "info",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-15",
+      "popup": true,
+      "windowsNotification": true
+    },
+    {
       "id": "2026-08-29-1788000742748",
       "title": "DERNEK360'A HOŞGELDİNİZ!",
       "message": "Dernek360 uygulamasına hoş geldiniz. Uygulama hakkındaki bilgileri kurulum ve kullanım aşamalarını öğrenmek için size iletilen youtube linkinden ilgili videoları izleyebilirsiniz. Uygulamada ara ara güncellemeleri kontrol etmeyi unutmayınız.\nCreated By AKBEY.",
