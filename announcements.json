@@ -1,3 +1,14 @@
 {
-  "announcements": []
+  "announcements": [
+    {
+      "id": "2026-09-17-1789670704284",
+      "title": "Uygulama Kapatma Hatası",
+      "message": "Son güncellemeden kaynaklı uygulama kapanma hatası vardır. Durumun farkındayız en kısa sürede güncelleme ile çözülecektir. Şuanlık kayıt işleriniz bittikten sonra görev yöneticisinden uygulamaya sağ tıklayıp görevi sonlandır diyerek kapatmalısınız.",
+      "type": "maintenance",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-18",
+      "popup": true,
+      "windowsNotification": true
+    }
+  ]
 }
